@@ -110,14 +110,13 @@ font-weight:bold;
 background:white;
 
 }
-.main-header{
-    width:20%;
-    background:#080808;
-    padding:0;
-    display:flex;
-    justify-content:center;
+.main-header {
+    background: #080808;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
 }
-
 .hero {
 
 text-align:center;
@@ -164,11 +163,11 @@ color:#00ff88;
 
 }
 .logo {
-    width: 100%;
-    max-width: 800px;
-    height: auto;
     display: block;
-    margin: 0 auto;
+    width: 100%;
+    max-width: 900px; /* Größe des Logos */
+    height: auto;
+    object-fit: contain;
 }
 
 .logo-link {
