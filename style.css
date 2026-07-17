@@ -165,9 +165,10 @@ color:#00ff88;
 
 }
 .logo{
-    width:900px;
-    max-width:100%;
+    width:650px;
+    max-width:95%;
     height:auto;
+    display:block;
 }
 
 .logo-link {
