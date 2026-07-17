@@ -111,13 +111,12 @@ background:white;
 
 }
 .main-header{
+    width:100%;
     background:#080808;
-    padding:15px 0;
+    padding:0;
     display:flex;
     justify-content:center;
-    align-items:center;
 }
-
 
 .hero {
 
@@ -165,10 +164,11 @@ color:#00ff88;
 
 }
 .logo{
-    width:650px;
-    max-width:95%;
+    width:100%;
+    max-width:1200px;
     height:auto;
     display:block;
+    margin:0 auto;
 }
 
 .logo-link {
