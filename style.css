@@ -110,14 +110,12 @@ font-weight:bold;
 background:white;
 
 }
-.main-header {
-
-background:#080808;
-
-padding:60px;
-
-text-align:center;
-
+.main-header{
+    background:#080808;
+    padding:15px 0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 
 
@@ -166,12 +164,10 @@ font-size:35px;
 color:#00ff88;
 
 }
-.logo {
-    width: 250px;
-    max-width: 90%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+.logo{
+    width:900px;
+    max-width:100%;
+    height:auto;
 }
 
 .logo-link {
