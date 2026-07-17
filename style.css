@@ -110,3 +110,59 @@ font-weight:bold;
 background:white;
 
 }
+.main-header {
+
+background:#080808;
+
+padding:60px;
+
+text-align:center;
+
+}
+
+
+.hero {
+
+text-align:center;
+
+padding:80px 20px;
+
+background:#111;
+
+}
+
+
+.hero h2 {
+
+font-size:45px;
+
+color:#00ff88;
+
+}
+
+
+.why {
+
+text-align:center;
+
+padding:50px;
+
+background:#111;
+
+}
+
+
+nav a:hover {
+
+color:#00ff88;
+
+}
+
+
+.title {
+
+font-size:35px;
+
+color:#00ff88;
+
+}
