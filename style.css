@@ -164,7 +164,8 @@ color:#00ff88;
 
 }
 .logo {
-    width: 700px;
+    width: 70%;
+    max-width: 800px;
     height: auto;
     display: block;
     margin: 0 auto;
