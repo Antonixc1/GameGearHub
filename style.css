@@ -166,3 +166,20 @@ font-size:35px;
 color:#00ff88;
 
 }
+.logo {
+    width: 350px;
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.logo-link {
+    display: inline-block;
+}
+
+.main-header {
+    text-align: center;
+    padding: 30px 20px;
+    background: #080808;
+}
