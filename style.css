@@ -163,12 +163,11 @@ font-size:35px;
 color:#00ff88;
 
 }
-.logo{
-    width:25%;
-    max-width:25px;
-    height:auto;
-    display:block;
-    margin:0 auto;
+.logo {
+    width: 700px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .logo-link {
