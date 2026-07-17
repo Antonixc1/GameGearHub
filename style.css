@@ -165,11 +165,9 @@ color:#00ff88;
 
 }
 .logo {
-    display: block;
-    width: 100%;
-    max-width: 900px; /* Größe des Logos */
+    width: 600px;
     height: auto;
-    object-fit: contain;
+    display: block;
 }
 
 .logo-link {
